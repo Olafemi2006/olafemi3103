@@ -1,0 +1,20 @@
+table {
+border-collapse: collapse; 
+}
+
+td {
+border: 1px solid black;
+}
+
+.special1 {
+background-color: navy;
+color: blue;
+}
+
+.special2 {
+background-color: silver;
+color: green;
+}
+
+
+
